@@ -1,0 +1,6 @@
+grandparent(joe,garry).
+grandparent(joe,sam).
+grandfather(joe,garry).
+father(juily,garry).
+mother(juily,leeniz).
+sibling(garry,leeniz).
